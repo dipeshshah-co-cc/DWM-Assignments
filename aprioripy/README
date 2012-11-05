@@ -1,0 +1,11 @@
+List of files:
+1. apriori.py
+2. DATASET.csv
+
+Dataset is a comma separated dataset.
+
+To run the program
+$ python apriori.py <Dataset.txt> minSupport
+
+Best results are obtained for the following values of support and confidence:
+Support     : Between 0.1 and 0.2
